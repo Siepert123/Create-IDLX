@@ -1,5 +1,5 @@
 {
-  "createidlx.gui.display_link.placeholders_tooltip_header": "Opmaaktekens voor Dummies",
+  "createidlx.gui.display_link.placeholders_tooltip_header": "Opmaaktekens gebruiken",
   "createidlx.gui.display_link.placeholders_tooltip_1": "Gebruik de '$'- of '{}'-opmaaktekens om de data\neens of meermaals in de tekst in te voegen;",
   "createidlx.gui.display_link.placeholders_tooltip_2": "om de bovenstaande karakters letterlijk weer te geven\nmoet je backslashes gebruiken: respectievelijk '\\$' en '\\{}'.",
   "createidlx.gui.display_link.placeholders_tooltip_3": "Mochten er geen opmaaktekens zijn,\nwordt de gebruikelijke samenvoegingsmethode toegepast.",
