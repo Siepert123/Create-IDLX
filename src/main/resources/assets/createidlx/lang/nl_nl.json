@@ -8,7 +8,7 @@
   "createidlx.gui.display_link.active_placeholder.both": "'$' en '{}'",
   "createidlx.gui.display_link.active_placeholder.brackets_only": "alleen '{}'",
   "createidlx.gui.display_link.active_placeholder.dollar_only": "alleen '$'",
-  "createidlx.gui.display_link.placeholders_tooltip_5": "Het 'voortgangbalk'-weergavetype is\ndoor de serverinstellingen %s.",
+  "createidlx.gui.display_link.placeholders_tooltip_5": "Het 'voortgangsbalk'-weergavetype is\ndoor de serverinstellingen %s.",
   "createidlx.gui.display_link.progress_bar_support.enabled": "ingeschakeld",
   "createidlx.gui.display_link.progress_bar_support.disabled": "uitgeschakeld"
 }
